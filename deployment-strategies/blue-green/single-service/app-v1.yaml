@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: deekshithsn/k8s-deployment-strategies
+        image: durga/k8s-deployment-strategies
         ports:
         - name: http
           containerPort: 8080
